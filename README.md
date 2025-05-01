@@ -2,6 +2,20 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+![Screenshot 2025-05-01 211121](https://github.com/user-attachments/assets/16596d0c-664a-449c-b334-17aca10ee409)
+![Screenshot 2025-05-01 211127](https://github.com/user-attachments/assets/f85137be-8d49-4afc-a77a-04502c262b63)
+![Screenshot 2025-05-01 211138](https://github.com/user-attachments/assets/4e31f236-40f4-41e7-8b34-99ff40c07377)
+![Screenshot 2025-05-01 211154](https://github.com/user-attachments/assets/f3d74593-3fe9-43ea-b75a-d4c607909fa6)
+![Screenshot 2025-05-01 211212](https://github.com/user-attachments/assets/326080f5-179b-4a77-8644-e924a77d01be)
+![Screenshot 2025-05-01 211223](https://github.com/user-attachments/assets/006d0ba9-7fa3-43a6-ae8d-33a8ffc36877)
+![Screenshot 2025-05-01 211335](https://github.com/user-attachments/assets/2119b848-73d8-4cba-a5e3-f4344e5d6796)
+![Screenshot 2025-05-01 211440](https://github.com/user-attachments/assets/e80fc2b2-de5e-4dcb-a288-ff72d558b085)
+![Screenshot 2025-05-01 211446](https://github.com/user-attachments/assets/29ec2172-9e98-4268-9e85-2c4ba50db897)
+
+
+
+
+
 First, run the development server:
 
 ```bash
